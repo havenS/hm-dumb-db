@@ -3,21 +3,24 @@
     {
       "id": 1,
       "company": "Kiloutou",
-      "jobTitle": "Chauffeur poids lourds",
-      "jobAvailability": "12",
+      "title": "Chauffeur poids lourds",
+      "openings": "12",
       "salary": "Selon profil",
       "type": "cdi",
       "adress": "45 rue dupond, 33000 Troufiassac",
       "coords": {
         "lat": 5.234322,
         "long": 3.45323
-      }
+      },
+      "distance": 40,
+      "licences": ["a", "b", "c"],
+      "skills": ["gentil", "maniaque"]
     },
     {
       "id": 2,
       "company": "Rent Force",
-      "jobTitle": "Chauffeur poids lourds",
-      "jobAvailability": "12",
+      "title": "Chauffeur poids lourds",
+      "openings": "12",
       "salary": "15",
       "type": "cdi",
       "adress": "45 rue dupond, 33000 Troufiassac",
@@ -25,6 +28,9 @@
         "lat": 5.234322,
         "long": 3.45323
       }
+      "distance": 40,
+      "licences": ["a", "b"],
+      "skills": ["gentil", "serviable", "maniaque"]
     }
   ]
 }
