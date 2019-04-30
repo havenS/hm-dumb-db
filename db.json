@@ -27,7 +27,7 @@
       "coords": {
         "lat": 5.234322,
         "long": 3.45323
-      }
+      },
       "distance": 40,
       "licences": ["a", "b"],
       "skills": ["gentil", "serviable", "maniaque"]
