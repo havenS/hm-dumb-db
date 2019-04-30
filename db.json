@@ -1,6 +1,7 @@
 {
   "offers": [
     {
+      "id": 1,
       "company": "Kiloutou",
       "jobTitle": "Chauffeur poids lourds",
       "jobAvailability": "12",
@@ -13,6 +14,7 @@
       }
     },
     {
+      "id": 2,
       "company": "Rent Force",
       "jobTitle": "Chauffeur poids lourds",
       "jobAvailability": "12",
