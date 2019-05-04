@@ -70,5 +70,20 @@
         }
       }
     }
+  ],
+  "companies": [
+    {
+      "uid": 5,
+      "nom": "KILOUTOU",
+      "address": {
+        "street": "78 avenue de Paris",
+        "complement": null,
+        "postalCode": "33000",
+        "city": "Bordeaux",
+        "country": null,
+        "lat": 0.4537,
+        "lng": 0.754
+      }
+    }
   ]
 }
