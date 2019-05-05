@@ -87,7 +87,7 @@
         "uid": 6,
         "nom": "Rent Force"
       },
-      "nbreOffrePublié": 7,
+      "nbreOffrePubliée": 7,
       "nbreOffreSpontanéePubliée": 4,
       "_commentaire": "Pas encore d'actualité",
       "favorite": false
@@ -97,7 +97,7 @@
         "uid": 7,
         "nom": "Danone"
       },
-      "nbreOffrePublié": 1,
+      "nbreOffrePubliée": 1,
       "nbreOffreSpontanéePubliée": 5,
       "_commentaire": "Pas encore d'actualité",
       "favorite": false
