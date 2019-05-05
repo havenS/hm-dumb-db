@@ -71,19 +71,36 @@
       }
     }
   ],
-  "companies": [
+  "entreprises": [
     {
-      "uid": 5,
-      "nom": "KILOUTOU",
-      "address": {
-        "street": "78 avenue de Paris",
-        "complement": null,
-        "postalCode": "33000",
-        "city": "Bordeaux",
-        "country": null,
-        "lat": 0.4537,
-        "lng": 0.754
-      }
+      "entreprise": {
+        "uid": 5,
+        "nom": "KILOUTOU"
+      },
+      "nbreOffrePubliée": 32,
+      "nbreOffreSpontanéePubliée": 8,
+      "_commentaire": "Pas encore d'actualité",
+      "favorite": true
+    },
+    {
+      "entreprise": {
+        "uid": 6,
+        "nom": "Rent Force"
+      },
+      "nbreOffrePublié": 7,
+      "nbreOffreSpontanéePubliée": 4,
+      "_commentaire": "Pas encore d'actualité",
+      "favorite": false
+    },
+    {
+      "entreprise": {
+        "uid": 7,
+        "nom": "Danone"
+      },
+      "nbreOffrePublié": 1,
+      "nbreOffreSpontanéePubliée": 5,
+      "_commentaire": "Pas encore d'actualité",
+      "favorite": false
     }
   ]
 }
