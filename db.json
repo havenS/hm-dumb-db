@@ -73,6 +73,7 @@
   ],
   "entreprises": [
     {
+      "id": 5,
       "entreprise": {
         "uid": 5,
         "nom": "KILOUTOU"
@@ -83,6 +84,7 @@
       "favorite": true
     },
     {
+      "id": 6,
       "entreprise": {
         "uid": 6,
         "nom": "Rent Force"
@@ -93,6 +95,7 @@
       "favorite": false
     },
     {
+      "id": 7,
       "entreprise": {
         "uid": 7,
         "nom": "Danone"
