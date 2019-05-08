@@ -84,13 +84,13 @@
           "city": "Bordeaux",
           "country": null,
           "lat": 0.4537,
-          "lng": 0.754
+          "lng": 0.754,
+          "presentation": "KILOUTOU, entreprise de service de location, propose à ses clients professionnels une large gamme de matériels..."
         }
       },
       "nbreOffrePubliée": 32,
       "nbreOffreSpontanéePubliée": 8,
-      "favorite": true,
-      "presentation": "KILOUTOU, entreprise de service de location, propose à ses clients professionnels une large gamme de matériels..."
+      "favorite": true
     },
     {
       "id": 6,
@@ -104,13 +104,13 @@
           "city": "Bordeaux",
           "country": null,
           "lat": 0.4537,
-          "lng": 0.754
+          "lng": 0.754,
+          "presentation": "KILOUTOU, entreprise de service de location, propose à ses clients professionnels une large gamme de matériels..."
         }
       },
       "nbreOffrePublié": 7,
       "nbreOffreSpontanéePubliée": 4,
-      "favorite": false,
-      "presentation": "KILOUTOU, entreprise de service de location, propose à ses clients professionnels une large gamme de matériels..."
+      "favorite": false
     },
     {
       "id": 7,
@@ -124,13 +124,13 @@
           "city": "Bordeaux",
           "country": null,
           "lat": 0.4537,
-          "lng": 0.754
+          "lng": 0.754,
+          "presentation": "KILOUTOU, entreprise de service de location, propose à ses clients professionnels une large gamme de matériels..."
         }
       },
       "nbreOffrePublié": 1,
       "nbreOffreSpontanéePubliée": 5,
-      "favorite": false,
-      "presentation": "KILOUTOU, entreprise de service de location, propose à ses clients professionnels une large gamme de matériels..."
+      "favorite": false
     }
   ]
 }
