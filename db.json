@@ -77,66 +77,60 @@
       "entreprise": {
         "uid": 5,
         "nom": "KILOUTOU",
-        "address":
-          {
-            "street":"78 avenue de Paris",
-            "complement":null,  "_commentaire": [null, "la Roulière", "string"],
-            "postalCode":"33000",
-            "city":"Bordeaux",
-            "country":null,  "_commentaire": ["null = France", "Belgique", "string"],
-            "lat":0.4537,
-            "lng":0.754
-          }
+        "address": {
+          "street": "78 avenue de Paris",
+          "complement": null,
+          "postalCode": "33000",
+          "city": "Bordeaux",
+          "country": null,
+          "lat": 0.4537,
+          "lng": 0.754
+        }
       },
       "nbreOffrePubliée": 32,
       "nbreOffreSpontanéePubliée": 8,
-      "_commentaire": "Pas encore d'actualité",
       "favorite": true,
-      "presentation":"KILOUTOU, entreprise de service de location, propose à ses clients professionnels une large gamme de matériels...",
+      "presentation": "KILOUTOU, entreprise de service de location, propose à ses clients professionnels une large gamme de matériels..."
     },
     {
       "id": 6,
       "entreprise": {
         "uid": 6,
         "nom": "Rent Force",
-        "address":
-          {
-            "street":"78 avenue de Paris",
-            "complement":null,  "_commentaire": [null, "la Roulière", "string"],
-            "postalCode":"33000",
-            "city":"Bordeaux",
-            "country":null,  "_commentaire": ["null = France", "Belgique", "string"],
-            "lat":0.4537,
-            "lng":0.754
-          }
+        "address": {
+          "street": "78 avenue de Paris",
+          "complement": null,
+          "postalCode": "33000",
+          "city": "Bordeaux",
+          "country": null,
+          "lat": 0.4537,
+          "lng": 0.754
+        }
       },
       "nbreOffrePublié": 7,
       "nbreOffreSpontanéePubliée": 4,
-      "_commentaire": "Pas encore d'actualité",
       "favorite": false,
-      "presentation":"KILOUTOU, entreprise de service de location, propose à ses clients professionnels une large gamme de matériels...",
+      "presentation": "KILOUTOU, entreprise de service de location, propose à ses clients professionnels une large gamme de matériels..."
     },
     {
       "id": 7,
       "entreprise": {
         "uid": 7,
         "nom": "Danone",
-        "address":
-          {
-            "street":"78 avenue de Paris",
-            "complement":null,  "_commentaire": [null, "la Roulière", "string"],
-            "postalCode":"33000",
-            "city":"Bordeaux",
-            "country":null,  "_commentaire": ["null = France", "Belgique", "string"],
-            "lat":0.4537,
-            "lng":0.754
-          }
+        "address": {
+          "street": "78 avenue de Paris",
+          "complement": null,
+          "postalCode": "33000",
+          "city": "Bordeaux",
+          "country": null,
+          "lat": 0.4537,
+          "lng": 0.754
+        }
       },
       "nbreOffrePublié": 1,
       "nbreOffreSpontanéePubliée": 5,
-      "_commentaire": "Pas encore d'actualité",
       "favorite": false,
-      "presentation":"KILOUTOU, entreprise de service de location, propose à ses clients professionnels une large gamme de matériels...",
+      "presentation": "KILOUTOU, entreprise de service de location, propose à ses clients professionnels une large gamme de matériels..."
     }
   ]
 }
